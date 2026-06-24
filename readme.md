@@ -1,7 +1,7 @@
 # About Laravel-Unsplash
 
 A Laravel package for easy integration with the Unsplash API. It allows you to use the Unsplash API in your Laravel applications to fetch photos, collections, and user data.
-Current supported Laravel versions 9/10/11/12
+Current supported Laravel versions 9/10/11/12/13
 
 - [Laravel](https://laravel.com/)
 - [Urlscan](https://unsplash.com/)
