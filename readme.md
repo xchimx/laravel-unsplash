@@ -6,6 +6,7 @@ Current supported Laravel versions 9/10/11/12/13
 - [Laravel](https://laravel.com/)
 - [Urlscan](https://unsplash.com/)
 - [Schottstaedt](https://www.schottstaedt.net/)
+- [Detailed article about this package](https://www.schottstaedt.net/en/laravel-unsplash-package)
 
 ---<!-- TOC -->
 * [About Laravel-Unsplash](#about-laravel-unsplash)
